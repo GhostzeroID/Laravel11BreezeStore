@@ -1,0 +1,1 @@
+<h2 class="font-semibold tracking-tighter text-lg"><?php echo e($slot); ?></h2><?php /**PATH D:\laragon\www\login\resources\views/components/card/title.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<span class="bg-gray-800 text-white text-xs font-semibold rounded-full px-2 py-1 "><?php echo e($slot); ?></span><?php /**PATH D:\laragon\www\login\resources\views/components/badge.blade.php ENDPATH**/ ?>
